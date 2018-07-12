@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TYBasicModule_Example' do
+  pod 'TYBasicModule', :path => '../'
+
+  target 'TYBasicModule_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
