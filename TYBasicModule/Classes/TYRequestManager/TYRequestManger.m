@@ -7,8 +7,8 @@
 //
 
 #import "TYRequestManger.h"
-#import <AFNetworking.h>
-#import <AFNetworkActivityIndicatorManager.h>
+#import "AFNetworking.h"
+#import "AFNetworkActivityIndicatorManager.h"
 #import "TYNetWorkConfig.h"
 #import "TYMacrosFunction.h"
 #import "TYShowHUD.h"

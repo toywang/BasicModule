@@ -7,7 +7,7 @@
 //
 
 #import "TYCacheManager.h"
-#import <YYCache.h>
+#import "YYCache.h"
 
 static NSString *const TYCacheName = @"TYCacheName";
 
