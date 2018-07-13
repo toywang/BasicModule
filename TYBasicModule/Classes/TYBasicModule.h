@@ -9,9 +9,9 @@
 #ifndef TYBasicModule_h
 #define TYBasicModule_h
 
-#import "TYCache/TYCacheManager.h"
-#import "TYRequestManager/TYRequestManger.h"
-#import "TYRequestManager/TYNetWorkConfig.h"
-#import "TYHUD/TYShowHUD.h"
-#import "TYCategory/UIView+Frame.h"
+#import "TYCacheManager.h"
+#import "TYRequestManger.h"
+#import "TYNetWorkConfig.h"
+#import "TYShowHUD.h"
+#import "UIView+Frame.h"
 #endif /* TYBasicModule_h */

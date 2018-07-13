@@ -18,13 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-  ####我的第一个组件库
-  -     网络请求（TYRequestManager）
-  -     HUD （TYShowHUD）
-  -     缓存 （TYCacheManager）
+    '我的第一个组件库'
                     DESC
 
-  s.homepage         = 'https://github.com/toywang/TYBasicModule'
+  s.homepage         = 'https://github.com/toywang/BasicModule'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'toywang' => '1002392634@qq.com' }
