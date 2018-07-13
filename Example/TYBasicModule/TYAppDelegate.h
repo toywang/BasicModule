@@ -8,6 +8,7 @@
 
 @import UIKit;
 
+
 @interface TYAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;

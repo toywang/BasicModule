@@ -37,6 +37,28 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.frameworks = 'UIKit', 'Foundation'
+   s.dependency 'AFNetworking', '~> 3.2.1'
+   s.dependency 'YYCache','~> 1.0.4'
+   s.dependency 'XHToast', '~> 1.4.0'
+   s.dependency 'SVProgressHUD', '~> 2.2.5'
+   s.dependency 'MBProgressHUD', '~> 1.1.0'
+   s.dependency 'JKCategories' , '~> 1.7'
+
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

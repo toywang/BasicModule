@@ -7,7 +7,7 @@
 //
 
 #import "TYViewController.h"
-
+#import <Foundation/Foundation.h>
 @interface TYViewController ()
 
 @end
